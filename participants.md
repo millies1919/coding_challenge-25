@@ -34,3 +34,9 @@ I have been debating on creating a blog for a long time and decided I wanted to 
 - [Project Repo](https://github.com/Bartholomewbd/gatsby-portfolio)
 - [Twitter](https://twitter.com/bartholomewbd)
 - [Linkedin](https://www.linkedin.com/in/bartholomewbd)
+
+## Stealthiest#5812 - PokemonVGC Team Builder 
+I've always loved playing competitive Pokemon on the Gameboy and now the Switch. Building teams is sopmething I love and I haven't found a online teambuilder that can check for type weaknesses in teams so I am going to try to implement this in mine. I plan to build the front end in React and then use Node and PostgreSQL to handle my backend
+
+- [Project Repo](https://github.com/millies1919/PokeTeamBuilder)
+- [Live Demo](https://www.linkedin.com/in/matthew-canoy-illies-79b58318b/)
